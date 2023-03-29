@@ -6,7 +6,7 @@ namespace VS_CODE_CS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
+            Console.WriteLine("test commit");
         }
     }
 }
