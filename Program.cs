@@ -6,7 +6,9 @@ namespace VS_CODE_CS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("test commit");
+            string[] str = Console.ReadLine().Split();
+
+            Console.WriteLine($"{str[0]} {str[1]}");
         }
     }
 }
