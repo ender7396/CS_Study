@@ -28,7 +28,6 @@ namespace VS_CODE_CS
                     Console.WriteLine("제 마음속의 수는 그것입니다!!");
                 }
             }
-
         }
     }
 }
